@@ -67,10 +67,14 @@ div.conteudo {
 div.post {
     background-color: wheat;
     margin: 8px 0;
-    padding: 5px;
+    padding: 10px;
     border-radius: 5px;
 }
 
 div.post h1 {
     text-align: center;
+}
+div.post p {
+    text-align: justify;
+    margin: 10px 0;
 }
